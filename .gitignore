@@ -1,0 +1,6 @@
+
+/secrets/
+
+.env
+
+/alertmanager/alertmanager.yml
